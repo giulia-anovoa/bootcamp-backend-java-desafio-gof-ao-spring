@@ -1,6 +1,3 @@
-# Explorando Padrões de Projetos na Prática com Java
+# bootcamp-backend-java-desafio-gof-ao-spring
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
-- Singleton
-- Strategy/Repository
-- Facade
+Repositório para a realização das atividades propostas pelo Bootcamp de Backend em Java, da DIO.
